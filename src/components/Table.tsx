@@ -5,7 +5,7 @@ import {
   flexRender,
 } from "@tanstack/react-table";
 import { useState } from "react";
-import BriefCase from "../assets/Briefcase.svg";
+import BriefCase from "../assets/BriefCase.svg";
 import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 import Calender from "../assets/Calender.svg";
 import { IoIosArrowDropdownCircle } from "react-icons/io";
